@@ -1,19 +1,39 @@
-## SHINSEMA株式会社
+# SHINSEMA株式会社
 
-You can use the [editor on GitHub](https://github.com/LowyShin/shinsema/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## **Value - 会社ビジョン**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### **일본 EC Top Seller**
 
-```markdown
-Syntax highlighted code block
+펫과 전기자동차 악세서리 카테고리
 
-# Header 1
-## Header 2
-### Header 3
+### **일본 인기 App 개발사**
+
+일본내 가능성 있는 앱을 지속적으로 개발
+
+### **ESG 경영**
+
+E 전기자동차 악세서리→친환경
+
+S 펫→유기견보호시설+요양시설 연계 사회봉사활동, 직원 복지
+
+G ?
+
+## **Strategy 벨류업**
+
+### **IT외주로 개발력과 안정적인 회사 운영**
+
+
+### **성장 가능한 Biz. 도전**
+
+ **1.EC  사이트 구축/운영**
+
+펫과 전기자동차 악세서리 카테고리
+
+
+ **2.가능성 있는 App 지속적인 개발 및 출시**
+
 
 - Bulleted
 - List
@@ -24,14 +44,3 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LowyShin/shinsema/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
